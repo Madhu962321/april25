@@ -2,3 +2,6 @@ aws
 linux
 Devops
 redhat
+ansible
+jenkins
+kubernetes
